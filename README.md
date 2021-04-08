@@ -13,4 +13,4 @@
 
 [【課程簡報】20210326_東南資科_創新應用實務02_OpenCV初體驗](http://omnixri.blogspot.com/2021/03/2021032602opencv.html)
 
-【課程簡報】20210409_東南資科_創新應用實務03_OpenCV彩色影像處理
+[【課程簡報】20210409_東南資科_創新應用實務03_OpenCV彩色影像處理](https://omnixri.blogspot.com/2021/04/2021040903opencv.html)
