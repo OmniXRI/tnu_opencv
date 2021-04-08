@@ -9,8 +9,8 @@
 
 ## 相關課程簡報：
 
-![【課程簡報】20210319_東南資科_創新應用實務01_Github建站](http://omnixri.blogspot.com/2021/03/2021031901github.html)
+[【課程簡報】20210319_東南資科_創新應用實務01_Github建站](http://omnixri.blogspot.com/2021/03/2021031901github.html)
 
-![【課程簡報】20210326_東南資科_創新應用實務02_OpenCV初體驗](http://omnixri.blogspot.com/2021/03/2021032602opencv.html)
+[【課程簡報】20210326_東南資科_創新應用實務02_OpenCV初體驗](http://omnixri.blogspot.com/2021/03/2021032602opencv.html)
 
 【課程簡報】20210409_東南資科_創新應用實務03_OpenCV彩色影像處理
